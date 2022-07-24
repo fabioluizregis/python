@@ -8,4 +8,5 @@ class Flight:
 from Defining_Classes import Flight
 
 f = Flight()
+
 print(f.number())
